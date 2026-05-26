@@ -6,4 +6,4 @@
   - [Day 6 Lab: Analyze Ethernet Switching](https://github.com/qjackson14/analyzingethernetswitching)
   - [Day 8 Lab: Configuring IP Addresses](https://github.com/qjackson14/configuringipaddresses/tree/main)
   - [Day 9 Lab: Configuring Interfaces](https://github.com/qjackson14/configuringinterfaces)
-  -  - [Day 9 Lab: Configuring Interfaces](https://github.com/qjackson14/configuringinterfaces)
+  -  [Day 9 Lab: Configuring Interfaces](https://github.com/qjackson14/configuringinterfaces)
